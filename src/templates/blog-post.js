@@ -1,8 +1,8 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 import { documentToReactComponents } from "@contentful/rich-text-react-renderer"
-import SEO from '../components/SEO'
+import SEO from '../components/Seo'
 
 const contentful = require('contentful')
 

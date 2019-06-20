@@ -3,7 +3,7 @@ import Layout from "../components/Layout"
 import { graphql, useStaticQuery } from 'gatsby'
 import { Link } from 'gatsby'
 import blogStyles from '../styles/blog.module.scss'
-import SEO from '../components/SEO'
+import SEO from '../components/Seo'
 
 
 const BlogPage = () => {
